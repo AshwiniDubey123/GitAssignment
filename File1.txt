@@ -1,2 +1,3 @@
 Hello world
 change : to fix bug1
+change : to fix bug2 three way merging
