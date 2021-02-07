@@ -1,3 +1,8 @@
 Hello world
 change : to fix bug1
-change :by teammate wid5 3way merging
+
+change 1:by teammate wid5 3way merging.
+
+change 2: to fix bug2 three way merging.
+
+
