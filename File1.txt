@@ -1,4 +1,4 @@
-Hello world
+“Change 3” in File1.txtHello world
 change : to fix bug1.
 
 change  1:->by teammate wid5 3way merging.
@@ -6,6 +6,35 @@ change  2: to fix bug2 three way merging.
 change  3: team mate change workitem rebase.
 change 4:-> to fix bug2 three way merging.
 change 5:-> Enhancement1 for rebase
+“Change 3” in File1.txt
+“Change 3” in 
+
+$
+
+$
+
+
+
+
+$
+
+
+
+v
+
+
+
+$
+
+
+
+
+
+$
+
+
+
+
 
 
 
