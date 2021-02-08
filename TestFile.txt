@@ -1,4 +1,4 @@
-“Change 3” in File1.txtHello world
+﻿“Change 3” in File1.txtHello world
 change : to fix bug1.
 
 
@@ -21,6 +21,8 @@ change  5> Enhancement1 for rebase.
 change 8: wid is added
 change 9: check the remote master change using remote
 change 10 :change in the remote master.team mate change.
+
+wid 10:change request to check rebase
 
 
 
